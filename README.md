@@ -1,8 +1,34 @@
 <p align="center">
 
 
-<a ><img href="https://bayfrs.github.io/bayfrs/typed"><a>
-![](https://bayfrs.github.io/bayfrs/typed/index.html)
+<!DOCTYPE html>
+
+<html lang="en" >
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <title>CodePen - Typing with Typo Correction and Pause</title>
+
+  <link rel="stylesheet" href="./typed/style.css">
+
+</head>
+
+<body>
+
+<!-- partial:index.partial.html -->
+
+<div class="typing animate"></div>
+
+<!-- partial -->
+
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js'></script><script  src="./typed/script.js"></script>
+
+</body>
+
+</html>
+
 
 </p>
 <p align='center'>
