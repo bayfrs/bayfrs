@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://github.com/Xorizn"><img src="http://readme-typing-svg.herokuapp.com?color=b82323&center=true&vCenter=true&multiline=false&lines=My+Name+Xorizn;I+Learn+Html+And+Javascript;I+Am+16+Years+Old;I+live+In+Indonesia;Don't+bully+me+â‰§â–½â‰¦" alt="Asu"></a>
 </p>
+<p align='center'>
 <a href=""><img src="https://raw.githubusercontent.com/bayfrs/bayfrs/master/EFffxJY4_400x400.jpg" /></a>
-
+</p>
 
 ---
 
@@ -12,7 +13,7 @@ if (sad() === true){
     sad().stop();
     beAwesome();
 }
-    console.log("Hello there ‘‹, I'm bayfrs, Nice to meet you all!")
+    console.log("Hello there 🐧‘‹, I'm bayfrs, Nice to meet you all!")
 ```
 
 -------
