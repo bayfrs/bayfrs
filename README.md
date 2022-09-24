@@ -1,5 +1,9 @@
 <p align="center">
-  <a href="https://github.com/Xorizn"><img src="http://readme-typing-svg.herokuapp.com?color=b82323&center=true&vCenter=true&multiline=false&lines=My+Name+Xorizn;I+Learn+Html+And+Javascript;I+Am+16+Years+Old;I+live+In+Indonesia;Don't+bully+me+â‰§â–½â‰¦" alt="Asu"></a>
+    <link rel="stylesheet" href="typed/style.css">
+
+  <div class="typing animate"></div>
+
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js'></script><script  src="typed/script.js"></script>
 </p>
 <p align='center'>
 <a href=""><img src="https://raw.githubusercontent.com/bayfrs/bayfrs/master/EFffxJY4_400x400.jpg" /></a>
