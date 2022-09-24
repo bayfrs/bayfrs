@@ -1,7 +1,7 @@
 <p align="center">
 
 
-<a href="https://bayfrs.github.io/bayfrs/typed">
+<a ><img href="https://bayfrs.github.io/bayfrs/typed"><a>
 
 
 </p>
