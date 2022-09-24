@@ -1,9 +1,9 @@
 <p align="center">
-    <link rel="stylesheet" href="typed/style.css">
+    <link rel="stylesheet" href="./typed/style.css">
 
   <div class="typing animate"></div>
 
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js'></script><script  src="typed/script.js"></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js'></script><script  src="./typed/script.js"></script>
 </p>
 <p align='center'>
 <a href=""><img src="https://raw.githubusercontent.com/bayfrs/bayfrs/master/EFffxJY4_400x400.jpg" /></a>
