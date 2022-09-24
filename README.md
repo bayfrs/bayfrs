@@ -2,7 +2,7 @@
 
 
 <a ><img href="https://bayfrs.github.io/bayfrs/typed"><a>
-
+![](https://bayfrs.github.io/bayfrs/typed/index.html)
 
 </p>
 <p align='center'>
