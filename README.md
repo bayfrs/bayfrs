@@ -1,9 +1,9 @@
 <p align="center">
+
 [![Typing SVG](https://typeks.herokuapp.com?font=Calibri+bold&pause=1000&color=000000&width=435&lines=Hello%2C+I'm+bayfrs.+;Welcome+to+my+Github!%F0%9F%90%A7;Youtube%3A++bayfrs;Instagram%3A++%40bayfrs;Telegram%3A++%40bayfrs)](https://git.io/typing-svg)
 </p>
 
----
-
+----
 <p align='center'>
 <a href=""><img src="https://raw.githubusercontent.com/bayfrs/bayfrs/master/EFffxJY4_400x400.jpg" /></a>
 </p>
