@@ -1,34 +1,6 @@
 <p align="center">
 
-
-<!DOCTYPE html>
-
-<html lang="en" >
-
-<head>
-
-  <meta charset="UTF-8">
-
-  <title>CodePen - Typing with Typo Correction and Pause</title>
-
-  <link rel="stylesheet" href="./typed/style.css">
-
-</head>
-
-<body>
-
-<!-- partial:index.partial.html -->
-
-<div class="typing animate"></div>
-
-<!-- partial -->
-
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js'></script><script  src="./typed/script.js"></script>
-
-</body>
-
-</html>
-
+[![Typing SVG](https://typeks.herokuapp.com?font=Calibri+bold&pause=1000&color=000000&width=435&lines=Hello%2C+I'm+bayfrs.+;Welcome+to+my+Github!%F0%9F%90%A7;Youtube%3A++bayfrs;Instagram%3A++%40bayfrs;Telegram%3A++%40bayfrs)](https://git.io/typing-svg)
 
 </p>
 <p align='center'>
