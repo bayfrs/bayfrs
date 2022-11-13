@@ -1,7 +1,4 @@
-<p align="center">
-[![Typing SVG](https://typeks.herokuapp.com?font=Calibri+bold&pause=1000&&color=FF0000&width=435&lines=Hello%2C+I'm+bayfrs.+;Welcome+to+my+Github!%F0%9F%90%A7;Youtube%3A++bayfrs;Instagram%3A++%40bayfrs;Telegram%3A++%40bayfrs)](https://git.io/typing-svg)
-
-</p>
+[![Typing SVG](https://typeks.herokuapp.com?font=Arial+bold&pause=1000&color=00FF06&center=true&vCenter=true&width=435&lines=Hello+I'am+bayfrs;Welcome+to+my+Github!%F0%9F%90%A7;Youtube%3A+bayfrs;Instagram%3A+%40_.baybae;Facebook%3A+baybae)](https://git.io/typing-svg)
 
 ![Alt Text](https://bayfrs.github.io/Database/gif/sad.gif)
 
