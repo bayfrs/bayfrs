@@ -1,6 +1,9 @@
 [![Typing SVG](https://typeks.herokuapp.com?font=Arial+bold&pause=1000&color=00FF06&center=true&vCenter=true&width=435&lines=Hello+I'am+bayfrs;Welcome+to+my+Github!%F0%9F%90%A7;Youtube%3A+bayfrs;Instagram%3A+%40_.baybae;Facebook%3A+baybae)](https://git.io/typing-svg)
 
+
+<p align="center">
 ![Alt Text](https://bayfrs.github.io/Database/gif/sad.gif)
+</p>
 
 ---
 
@@ -21,7 +24,7 @@ if (sad() === true){
   <a href="https://t.me/bayfr"><img src="https://img.shields.io/badge/Telegram-32A7E1?style=for-the-badge&logo=telegram&logoColor=white" />
     <a href="https://www.instagram.com/bayfrs"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
     
-
+</p>
       
 ------
 ### Spotify Music
