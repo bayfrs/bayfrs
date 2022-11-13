@@ -44,3 +44,4 @@ if (sad() === true){
 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=bayfrs&repo=AirMasif&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=bayfrs&repo=Karuta&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=bayfrs&repo=AirMasifv2&theme=dark)
